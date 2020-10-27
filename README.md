@@ -1,1 +1,2 @@
 # eBook
+eBook Home is an online books corporation. The project e-book offers convenient, cloud-based and portable solutions for the global reader to enjoy a wonderful reading experience. Due to an ascending of number of e-book reader, this project builds a brand-new platform and management system consisting of buying, reading, managing and sharing e-book by implement microservices using Spring Cloud to loosen coupled. The goal is to provide customers with high reading experience.
